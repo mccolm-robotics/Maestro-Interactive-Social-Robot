@@ -1,2 +1,2 @@
-# robotic-arm
-3D printed arm using experimental strain-wave gear and AI over RP3
+# Maestro Interactive Social Robot
+This is a social robot inspired by Jibbo.
